@@ -9,6 +9,7 @@ Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swo
 
 #### Oczekujemy
 
+
 - prowadzenia szkoleń online dla początkujących programistów
 - specjalizacji w jednym z języków programowania: Java, Python, C#, JavaScript
 - praktycznego doświadczenia w tworzeniu projektów w nauczanym języku programowania
@@ -18,6 +19,7 @@ Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swo
 - znajomości języka angielskiego (jest to język dostarczonych materiałów)
 - podstawowej wiedzy na temat obsługi narzędzi i kanałów do streamingu i moderacji komunikacji zwrotnej
 - doświadczenie w live coding online będzie dodatkowym atutem
+
 
 #### Oferujemy
 - pracę w rozwijającym się polskim oddziale międzynarodowej firmy
