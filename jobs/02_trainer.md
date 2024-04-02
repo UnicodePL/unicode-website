@@ -3,9 +3,9 @@ job: true
 order: 2
 ---
 
-## Trener Programistów
+## Trener(ka) Studentów Programowania
 
-Jeśli jesteś doświadczonym programistą, który chciałby podzielić się swoją wiedzą i pasją z innymi, dołącz do nas jako Trener Programowania!
+Jeśli jesteś doświadczonym programistą lub programistką, który chciałby podzielić się swoją wiedzą i pasją z innymi, dołącz do nas jako Nauczyciel / Trener Programowania!
 
 #### Oczekujemy
 
