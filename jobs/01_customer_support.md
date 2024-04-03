@@ -21,6 +21,7 @@ Jeśli jesteś osobą komunikatywną, zorganizowaną, a tematyka IT nie jest Ci 
 
 
 #### Oferujemy
+
 - pracę w rozwijającym się polskim oddziale międzynarodowej firmy
 - przeszkolenie wstępne
 - możliwość dołączenia do startupowej przygody 
@@ -28,6 +29,6 @@ Jeśli jesteś osobą komunikatywną, zorganizowaną, a tematyka IT nie jest Ci 
 
 #### Szczegóły
 
-- lokalizacja: biuro w Łódzi lub praca zdalna
+- lokalizacja: biuro w Łodzi lub praca zdalna
 - forma zatrudnienia: umowa zlecenie / B2B / umowa o pracę
 - wymiar zatrudnienia: pełny etat
