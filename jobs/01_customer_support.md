@@ -3,7 +3,7 @@ job: true
 order: 1
 ---
 
-## Specjalista ds. Obsługi Klienta
+## Specjalist(k)a ds. Obsługi Klienta
 
 Jeśli jesteś osobą komunikatywną, zorganizowaną, a tematyka IT nie jest Ci całkowicie obca, to jest to oferta dla Ciebie!
 
