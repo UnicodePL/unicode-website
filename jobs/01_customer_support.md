@@ -1,5 +1,5 @@
 ---
-job: true
+job: false
 order: 1
 ---
 
@@ -24,7 +24,7 @@ Jeśli jesteś osobą komunikatywną, zorganizowaną, a tematyka IT nie jest Ci 
 
 - pracę w rozwijającym się polskim oddziale międzynarodowej firmy
 - przeszkolenie wstępne
-- możliwość dołączenia do startupowej przygody 
+- możliwość dołączenia do startupowej przygody
 
 
 #### Szczegóły
