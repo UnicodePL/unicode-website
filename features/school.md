@@ -2,7 +2,7 @@
 layout     : page
 featured   : true
 title      : Kształcimy tych, którzy będą kreować świat IT
-description: Unicode jest wyłącznym polskim partnerem <a href="https://softuni.org/about/"><strong>SoftUni</strong></a> - jedna z największych nieoficjalnych instytucji edukacji technicznej w Europie Południowo-Wschodniej z ponad 10-letnią historią. Stworzyliśmy <a href="https://softuni.pl"><strong>SoftUni Polska</strong></a>, aby za pomocą metodykę nauczania, która przekształciła już tysięcy nowicjuszy w światowej klasy inżynierów oprogramowania, ułatwić wam wejście w jednej z najbardziej rozwojowych branż na rynku pracy!
+description: Unicode jest wyłącznym polskim partnerem <a href="https://softuni.org/about/"><strong>SoftUni</strong></a> - jednej z największych nieoficjalnych instytucji edukacji technicznej w Europie Południowo-Wschodniej z ponad 10-letnią historią. Stworzyliśmy <a href="https://softuni.pl"><strong>SoftUni Polska</strong></a>, aby za pomocą metodyki nauczania, która przekształciła już tysiące nowicjuszy w światowej klasy inżynierów oprogramowania, ułatwić Wam wejście w jedną z najbardziej rozwojowych branż na rynku pracy!
 order      : 1
 image      : images/softuni_logo.png
 author     : null
