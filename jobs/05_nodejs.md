@@ -3,14 +3,14 @@ job: true
 order: 1
 ---
 
-## Node.js Developer
+## Fullstack Developer
 
-Poszukujemy developera Node.js do współpracy "od zaraz".
+Poszukujemy Fullstack Developera do współpracy "od zaraz".
 
 #### Kwalifikacje
 
 - PostgreSQL (functions/trigers, Row/column level security, Indexes/partitioning, Full text search)
-- JS backend (node.js, Edge functions (Deno))
+- JS backend (Node.js, Edge functions (Deno))
 - Web apps (Vue.js, component frameworks like Nuxt or Quasar, CSS/SCSS, Bootstrap/Tailwind)
 
 
