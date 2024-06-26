@@ -1,6 +1,6 @@
 ---
 job: true
-order: 1
+order: 2
 ---
 
 ## Manager ds. Marketingu
