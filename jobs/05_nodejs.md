@@ -16,7 +16,7 @@ Poszukujemy developera Node.js do współpracy "od zaraz".
 
 #### Oczekiwania
 - Praca dotyczy budowy systemu z frontem web na podstawie gotowego projektu graficznego 
-- praca wymaga znajomości frameworków frontowych, backendowych i bazodanowych
+- wymaga znajomości frameworków frontowych, backendowych i bazodanowych
 - pełna dyspozycyjność w lipcu/sierpniu 2024 (potem do ustalenia)
 
 
